@@ -45,20 +45,43 @@ for stock_name in stock_names:
         
       print(f"uspia accessat {stock_name}")
       
-      site_content = BeautifulSoup(response.content, 'html.parser')
-
-      with open(f"site_content_{stock_name}.txt", 'w', encoding='utf-8') as file:
-         file.write(site_content.prettify())
-         
-      # Extract the stock price as an example
-      #price = stock_content.find('span', {'id': 'stock-price-id'}).text.strip()
-        
+      #with open(f"site_content_{stock_name}.txt", 'w', encoding='utf-8') as file:
+      #   file.write(stock_content.prettify())
+      
+      pb_value = None
+      pe_value = None
+      
+      # Look for the specific rows containing "P/B" and "P/E"
+      for tr in stock_content.find_all('tr'):
+         row_title = tr.find('span', class_='btitle')
+         if row_title:
+            title_text = row_title.text.strip()
+            if title_text == "P/B":
+               pb_value = tr.find('td', align="right").text.strip()
+               pb_value = pb_value.split(" ")[0]
+               if pb_value == "":
+                  continue
+               pb_value = float(pb_value.replace(',', '.'))
+               
+            elif title_text == "P/E":
+               pe_value = tr.find('td', align="right").text.strip()
+               pe_value = pe_value.split(" ")[0]
+               if pb_value == "":
+                  continue
+               pe_value = float(pe_value.replace(',', '.'))
+               
       # Store the data
-      #stock_data.append({'name': stock_name, 'price': price})
+      stock_data.append({'name': stock_name, 'P/B': pb_value, 'P/E': pe_value})
+        
+      # Print the extracted data
+      print(f"{stock_name} -> P/B: {pb_value} , P/E: {pe_value}, TOTAL: {stock_total}")
+      
+      
+      
    else:
       print("nisan uspia accessat {stock_name} ")
       
-   #time.sleep(15)
+   time.sleep(10)
 
 
    
