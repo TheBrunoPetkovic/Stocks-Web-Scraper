@@ -1080,10 +1080,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        12,90
+        12,95
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -1110,10 +1110,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        59,00
+        58,89
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -1427,10 +1427,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        33,27
+        33,22
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -1542,10 +1542,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        53,21
+        52,86
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -1655,14 +1655,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         48,50
+         48,30
         </b>
        </td>
        <td align="right">
-        48,50
+        48,30
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -2778,7 +2778,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         10,50
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -3064,14 +3064,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         1.230,00
+         1.270,00
         </b>
        </td>
        <td align="right">
-        1.230,00
+        1.270,00
        </td>
        <td>
-        25.07.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -3094,14 +3094,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         1.380,00
+         1.320,00
         </b>
        </td>
        <td align="right">
-        1.380,00
+        1.320,00
        </td>
        <td>
-        08.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -3737,14 +3737,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         2,88
+         2,80
         </b>
        </td>
        <td align="right">
-        2,88
+        2,83
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -4637,14 +4637,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         185,00
+         184,50
         </b>
        </td>
        <td align="right">
-        184,89
+        184,98
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -5197,14 +5197,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         7,50
+         7,60
         </b>
        </td>
        <td align="right">
-        7,50
+        7,60
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -6224,7 +6224,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         1,81
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -6655,14 +6655,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         31,40
+         31,70
         </b>
        </td>
        <td align="right">
-        31,40
+        31,64
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -6943,14 +6943,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         20,00
+         21,00
         </b>
        </td>
        <td align="right">
-        19,84
+        20,59
        </td>
        <td>
-        09.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -7176,14 +7176,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         444,00
+         458,00
         </b>
        </td>
        <td align="right">
-        444,67
+        458,00
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -7300,7 +7300,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         2,30
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -7848,10 +7848,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        306,18
+        310,00
        </td>
        <td>
-        13.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -7961,14 +7961,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         8,15
+         8,00
         </b>
        </td>
        <td align="right">
-        8,19
+        8,07
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -8051,14 +8051,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         1,30
+         1,24
         </b>
        </td>
        <td align="right">
-        1,32
+        1,25
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -8088,7 +8088,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         0,70
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -8615,10 +8615,10 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         </b>
        </td>
        <td align="right">
-        1.668,33
+        1.670,00
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -8641,14 +8641,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         1.690,00
+         1.700,00
         </b>
        </td>
        <td align="right">
-        1.690,00
+        1.699,68
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -8671,14 +8671,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         364,00
+         368,00
         </b>
        </td>
        <td align="right">
-        364,67
+        364,38
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -9520,14 +9520,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         143,00
+         139,00
         </b>
        </td>
        <td align="right">
-        143,00
+        135,93
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -10052,14 +10052,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         42,60
+         44,40
         </b>
        </td>
        <td align="right">
-        42,60
+        44,40
        </td>
        <td>
-        09.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -10814,14 +10814,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         7,70
+         7,60
         </b>
        </td>
        <td align="right">
-        7,76
+        7,65
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -11816,14 +11816,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         62,00
+         66,50
         </b>
        </td>
        <td align="right">
-        62,00
+        66,50
        </td>
        <td>
-        13.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -11970,7 +11970,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         340,00
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -12253,14 +12253,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         160,00
+         158,50
         </b>
        </td>
        <td align="right">
-        159,11
+        159,35
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -13288,14 +13288,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         5,10
+         5,14
         </b>
        </td>
        <td align="right">
-        5,11
+        5,14
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -14289,14 +14289,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         52,60
+         51,20
         </b>
        </td>
        <td align="right">
-        52,19
+        51,29
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -14959,14 +14959,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         20,00
+         19,00
         </b>
        </td>
        <td align="right">
-        20,00
+        19,00
        </td>
        <td>
-        02.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -15085,7 +15085,7 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
         220,00
        </td>
        <td>
-        14.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">
@@ -15928,14 +15928,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         16,00
+         16,60
         </b>
        </td>
        <td align="right">
-        16,00
+        16,60
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -16522,14 +16522,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         4,32
+         4,30
         </b>
        </td>
        <td align="right">
-        4,31
+        4,32
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr class="trAltDef" onclick="this.className='trAltDef'" onmouseout="this.className='trAltDef'" onmouseover="this.className='trHigh'">
@@ -16902,14 +16902,14 @@ var icctl00_RadMenu1 = new ImageCache(ctl00_RadMenu1ImagesData, function(){ctl00
        </td>
        <td align="right">
         <b>
-         19,10
+         19,00
         </b>
        </td>
        <td align="right">
-        19,10
+        19,02
        </td>
        <td>
-        16.08.24
+        19.08.24
        </td>
       </tr>
       <tr onclick="this.className=''" onmouseout="this.className=''" onmouseover="this.className='trHigh'">

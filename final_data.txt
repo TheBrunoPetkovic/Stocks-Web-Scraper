@@ -1,0 +1,11 @@
+3MAJ-R-A -> P/B: -0.03 , P/E: -0.23, TOTAL: 0.0069
+3MAJ-R-B -> P/B: 0.0 , P/E: 0.0, TOTAL: 0.0
+ABPR-R-A -> P/B:  , P/E: -0.34, TOTAL: P/E or P/B not found on website
+ACI-R-A -> P/B: 1.47 , P/E: 36.19, TOTAL: 53.199299999999994
+ACM-R-A -> P/B: 0.34 , P/E: 11.24, TOTAL: 3.8216000000000006
+ACNK-R-B -> P/B:  , P/E: , TOTAL: P/E or P/B not found on website
+ADBK-R-A -> P/B: 0.88 , P/E: -92.61, TOTAL: -81.4968
+ADHT-R-A -> P/B:  , P/E: , TOTAL: P/E or P/B not found on website
+ADOS-R-A -> P/B:  , P/E: , TOTAL: P/E or P/B not found on website
+ADPL-R-A -> P/B: 0.55 , P/E: -61.29, TOTAL: -33.709500000000006
+ADRS-P-A -> P/B: 0.75 , P/E: 17.97, TOTAL: 13.4775

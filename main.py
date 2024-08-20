@@ -35,7 +35,8 @@ with open('stock_names.txt', 'w', encoding='utf-8') as file:
       file.write(stock_name + '\n')
       
 stock_data = []
-
+writeable_stock_data = []
+counter = 0
 for stock_name in stock_names:
    stock_url = f"https://www.mojedionice.com/dionica/{stock_name}"
    stock_response = requests.get(stock_url)
@@ -43,7 +44,7 @@ for stock_name in stock_names:
    if stock_response.status_code == 200:
       stock_content = BeautifulSoup(stock_response.content, 'html.parser')
         
-      print(f"uspia accessat {stock_name}")
+      print(f"Access granted for stock: {stock_name}")
       
       #with open(f"site_content_{stock_name}.txt", 'w', encoding='utf-8') as file:
       #   file.write(stock_content.prettify())
@@ -66,24 +67,31 @@ for stock_name in stock_names:
             elif title_text == "P/E":
                pe_value = tr.find('td', align="right").text.strip()
                pe_value = pe_value.split(" ")[0]
-               if pb_value == "":
+               if pe_value == "":
                   continue
                pe_value = float(pe_value.replace(',', '.'))
-               
+      
       # Store the data
       stock_data.append({'name': stock_name, 'P/B': pb_value, 'P/E': pe_value})
-        
+      
+      if pb_value == "" or pe_value == "":
+         writeable_stock_data.append(f"{stock_name} -> P/B: {pb_value} , P/E: {pe_value}, TOTAL: P/E or P/B not found on website\n")
+         continue
+               
       # Print the extracted data
-      print(f"{stock_name} -> P/B: {pb_value} , P/E: {pe_value}, TOTAL: {stock_total}")
+      writeable_stock_data.append(f"{stock_name} -> P/B: {pb_value} , P/E: {pe_value}, TOTAL: {pb_value * pe_value}\n")
       
-      
+      counter += 1
+      if counter == 7:
+         break
       
    else:
-      print("nisan uspia accessat {stock_name} ")
+      print("Couldn't access website for stock: {stock_name} ")
       
    time.sleep(10)
 
-
-   
+with open("final_data.txt", "w") as f:
+   for line in writeable_stock_data:
+      f.write(line)
 
 
